@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **iiogmgo/iiogmgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Backend Developer
+   - work for [ODK Media](https://www.odkmedia.net/)
+   
+   
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/aeyeong-kim-1ba23110b/) [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/channel/UC5yeiWlkWqU3yXS3jHEnBCg) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iiogmgo@gmail.com)](mailto:iiogmgo@gmail.com)
