@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23398CFA&title_bg=%23FFFFFF&icon=bilibili.svg&icon_color=%23398CFA&title=ㅤ&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fiiogmgo%2Fhit-counter&count_bg=%23398CFA&title_bg=%23FFFFFF&icon=bilibili.svg&icon_color=%23398CFA&title=...&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### Backend Developer
 <!--
